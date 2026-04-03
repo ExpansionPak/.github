@@ -1,13 +1,11 @@
 # ExpansionPak
 
+
+[![image](https://avatars.githubusercontent.com/u/271502946?s=400&u=ae83108f7c426d94cedc804ac687f9c48e117173&v=4)](https://github.com/ExpansionPak)
+
 **Recompiled. Reimagined. Rebuilt.**
 
 ExpansionPak is a collection of low-level tools focused on bringing retro games into the modern era through **static recompilation**, **reverse engineering**, and **runtime experimentation**.
-
-We don't emulate.  
-We translate.
-
----
 
 ## What we do
 
@@ -27,27 +25,6 @@ Exploring PowerPC → native pipelines.
 
 ### gx2gl
 Graphics translation layer bridging console GPU pipelines into modern APIs.
-
----
-
-## Vision
-
-Retro games shouldn’t be locked to their original hardware.
-
-They should:
-- run natively  
-- scale properly  
-- be modifiable  
-- be preserved at a code level  
-
-ExpansionPak exists to make that happen.
-
----
-
-## Philosophy
-
-> A static recomp is not an emulator.  
-> It is the game — reconstructed.
 
 ---
 
