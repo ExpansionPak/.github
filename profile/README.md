@@ -26,6 +26,11 @@ Exploring PowerPC → native pipelines.
 ### gx2gl
 Graphics translation layer bridging console GPU pipelines into modern APIs.
 
+### GreenDH
+Open source compiler based on GHS for decomp efforts.
+
+### ProjectManshon
+Luigi's Mansion decompilation.
 ---
 
 ## Status
