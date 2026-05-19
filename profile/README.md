@@ -20,17 +20,13 @@ ExpansionPak is a collection of low-level tools focused on bringing retro games 
 ## Projects
 
 ### GCRecompiler
-GameCube recompilation experiments.  
-Exploring PowerPC → native pipelines.
+Turn Gamecube .iso and .dol files from binaries to C code
 
 ### gx2gl
-Graphics translation layer bridging console GPU pipelines into modern APIs.
+Translation layer over the Wii U's GX2 API to support desktop OpenGL
 
 ### GreenDH
 Open source compiler based on GHS for decomp efforts.
-
-### ProjectManshon
-Luigi's Mansion decompilation.
 
 ---
 
