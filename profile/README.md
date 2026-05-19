@@ -19,13 +19,16 @@ ExpansionPak is a collection of low-level tools focused on bringing retro games 
 
 ## Projects
 
-### GCRecompiler
-Turn Gamecube .iso and .dol files from binaries to C code
+### [ImOrigami64](https://github.com/ExpansionPak/ImOrigami64)
+Collection of Tools used to make ROM Hacks for Paper Mario (Nintendo 64, 2000)
 
-### gx2gl
+## [gx2gl](https://github.com/ExpansionPak/gx2gl)
 Translation layer over the Wii U's GX2 API to support desktop OpenGL
 
-### GreenDH
+### [GCRecompiler](https://github.com/ExpansionPak/GCRecompiler)
+Turn Gamecube .iso and .dol files from binaries to C code
+
+### [GreenDH](https://github.com/ExpansionPak/GreenDH)
 Open source compiler based on GHS for decomp efforts.
 
 ---
