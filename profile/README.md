@@ -19,7 +19,7 @@ ExpansionPak is a collection of low-level tools focused on bringing retro games 
 
 ## Projects
 
-### [ImOrigami64](https://github.com/ExpansionPak/ImOrigami64)
+### [I'm Origami64](https://github.com/ExpansionPak/ImOrigami64)
 Collection of Tools used to make ROM Hacks for Paper Mario (Nintendo 64, 2000)
 
 ## [gx2gl](https://github.com/ExpansionPak/gx2gl)
