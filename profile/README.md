@@ -19,7 +19,7 @@ ExpansionPak is a collection of low-level tools focused on bringing retro games 
 
 ## Projects
 
-### [FoldStudio](https://github.com/ExpansionPak/FoldStudio) - Author ([@smallington](https://github.com/dreamsailing59-ops))
+### [BoxStudio](https://github.com/ExpansionPak/BoxStudio) - Author ([@smallington](https://github.com/dreamsailing59-ops))
 
 ### [gx2gl](https://github.com/ExpansionPak/gx2gl) - Author ([jw](https://github.com/siahisaforker))
 Translation layer over the Wii U's GX2 API to support desktop OpenGL
