@@ -7,6 +7,10 @@
 
 ExpansionPak is a collection of low-level tools focused on bringing retro games into the modern era through **static recompilation**, **reverse engineering**, and **runtime experimentation**.
 
+You can check out our Discord Server here!
+
+[![Discord Banner](https://discord.com/api/guilds/1508777745709269034/widget.png?style=banner2)](https://discord.gg/MMQJ4TdmFs)
+
 ## What we do
 
 - Static recompilers for retro consoles  
@@ -22,7 +26,7 @@ ExpansionPak is a collection of low-level tools focused on bringing retro games 
 ### [gx2gl](https://github.com/ExpansionPak/gx2gl) - Author ([jw](https://github.com/siahisaforker))
 Translation layer over the Wii U's GX2 API to support desktop OpenGL
 
-### [GCRecompiler](https://github.com/ExpansionPak/GCRecompiler) - Author ([jw](https://github.com/siahisaforker))
+### [GCRecompiler](https://github.com/ExpansionPak/GCRecompiler) (Archived) - Author ([jw](https://github.com/siahisaforker))
 Turn Gamecube .iso and .dol files from binaries to C code
 
 ### [GreenDH](https://github.com/ExpansionPak/GreenDH) - Author ([@smallington](https://github.com/dreamsailing59-ops))
