@@ -1,7 +1,7 @@
 # ExpansionPak
 
 
-[![image](https://avatars.githubusercontent.com/u/271502946?s=400&u=ae83108f7c426d94cedc804ac687f9c48e117173&v=4)](https://github.com/ExpansionPak)
+![image](https://avatars.githubusercontent.com/u/271502946?s=400&u=ae83108f7c426d94cedc804ac687f9c48e117173&v=4)
 
 **Recompiled. Reimagined. Rebuilt.**
 
