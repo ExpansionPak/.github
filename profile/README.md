@@ -45,8 +45,6 @@ Older projects may be archived or transferred as the direction evolves.
 
 https://github.com/ExpansionPak
 
-Also be sure to check out ExpansionPak's sister project. [64ddcomp](https://github.com/64ddcomp)
-
 ---
 
 ## Contributors
