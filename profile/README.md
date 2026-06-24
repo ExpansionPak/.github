@@ -47,9 +47,6 @@ Translation layer over the Wii U's GX2 API to support desktop OpenGL
 ### [GCRecompiler](https://github.com/ExpansionPak/GCRecompiler) (Archived) - Author ([jw](https://github.com/siahisaforker))
 Turn Gamecube .iso and .dol files from binaries to C code
 
-### [GreenDH](https://github.com/ExpansionPak/GreenDH) - Author ([@smallington](https://github.com/dreamsailing59-ops))
-Open source compiler based on GHS for decomp efforts.
-
 ---
 
 ## Status
