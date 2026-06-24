@@ -21,16 +21,23 @@ You can check out our Discord Server here!
 
 We are currently experimenting with:
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Nintendo_64_%28logo%29.svg/1920px-Nintendo_64_%28logo%29.svg.png" alt="N64" /></td>
-    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nintendo_Gamecube_Logo.svg/3840px-Nintendo_Gamecube_Logo.svg.png" alt="GameCube" /></td>
-    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wii.svg/3840px-Wii.svg.png" alt="Wii" /></td>
-    <td align="center" width="25%"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/WiiU.svg/3840px-WiiU.svg.png" alt="Wii U" /></td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Nintendo_64">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Nintendo_64_%28logo%29.svg/1920px-Nintendo_64_%28logo%29.svg.png" width="22%" align="middle">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/GameCube">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nintendo_Gamecube_Logo.svg/3840px-Nintendo_Gamecube_Logo.svg.png" width="22%" align="middle">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Wii">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wii.svg/3840px-Wii.svg.png" width="22%" align="middle">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Wii_U">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/WiiU.svg/3840px-WiiU.svg.png" width="22%" align="middle">
+  </a>
+</p>
 
 ## Projects
 
